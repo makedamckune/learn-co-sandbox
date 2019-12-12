@@ -1,0 +1,1 @@
+"Strings are instanes and objects too".reverse
